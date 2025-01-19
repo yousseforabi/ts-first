@@ -22,7 +22,7 @@ You will take a small JavaScript app and change it into TypeScript. This will he
 
 1. Clone this project to your computer:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Sundsgardens-folkhogskola/Backend.git
    ```
 2. Create a new branch for your work:
    ```bash
